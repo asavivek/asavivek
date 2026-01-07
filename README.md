@@ -29,7 +29,7 @@
 <br>
 
 ## 🎨 My Creative Palette
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,c, c++)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=js,html,css,py,c, c++" ></img>
 <br>
 
 ## 📊 My Digital Footprint
