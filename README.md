@@ -83,7 +83,7 @@
 
 <div align="center">
   <h3>🐍 The Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/asavivek/asavivek/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/asavivek/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
 <br>
